@@ -1,0 +1,21 @@
+.wrapper {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+#video1 {
+  position: initial;
+  background: transparent;
+  opacity: 0;
+}
+#video1 video {
+  position: initial;
+  width: 100%;
+  height: auto;
+  outline: none;
+}
+#rick-canvas {
+  background: url("./assets/ba.jpeg") no-repeat;
+  background-size: 100% 85%;
+  background-position: 0% 100%;
+}
